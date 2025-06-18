@@ -103,7 +103,7 @@ This tool is intended for academic and research use only. Use responsibly and et
 
 For questions, feel free to reach out via GitHub issues or:
 
-📧 [malinythanaraj@gmail.com](mailto:malinythanaraj@gmail.com)
+📧 [malinythanaraj27@gmail.com](mailto:malinythanaraj27@gmail.com)
 
 ```
 
